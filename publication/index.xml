@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Zhengyao Jiang</title>
+    <link>https://ZhengyaoJiang.github.io/publication/</link>
+      <atom:link href="https://ZhengyaoJiang.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZhengyaoJiang.github.io/media/icon_hu6c6bd35698fee7d0733691beaa13467e_2774_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://ZhengyaoJiang.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Planning in a Compact Latent Action Space</title>
+      <link>https://ZhengyaoJiang.github.io/publication/tap/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ZhengyaoJiang.github.io/publication/tap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Backup: Data Efficient Backup Exploiting Markovian Transitions</title>
+      <link>https://ZhengyaoJiang.github.io/publication/gb/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://ZhengyaoJiang.github.io/publication/gb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Backup: Data Efficient Backup Exploiting Markovian Data</title>
+      <link>https://ZhengyaoJiang.github.io/publication/gbworkshop/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZhengyaoJiang.github.io/publication/gbworkshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid-to-Graph: Flexible Spatial Relational Inductive Biases for Reinforcement Learning</title>
+      <link>https://ZhengyaoJiang.github.io/publication/gtg/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZhengyaoJiang.github.io/publication/gtg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Logic Reinforcement Learning</title>
+      <link>https://ZhengyaoJiang.github.io/publication/nlrl/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://ZhengyaoJiang.github.io/publication/nlrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem</title>
+      <link>https://ZhengyaoJiang.github.io/publication/deepportfolio/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://ZhengyaoJiang.github.io/publication/deepportfolio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

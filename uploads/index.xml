@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Krinos Li</title>
+    <link>https://krinos.github.io/</link>
+      <atom:link href="https://krinos.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Krinos Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://krinos.github.io/media/icon_hu6c6bd35698fee7d0733691beaa13467e_2774_512x512_fill_lanczos_center_3.png</url>
+      <title>Krinos Li</title>
+      <link>https://krinos.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Planning in a Compact Latent Action Space</title>
+      <link>https://krinos.github.io/publication/tap/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://krinos.github.io/publication/tap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Backup: Data Efficient Backup Exploiting Markovian Transitions</title>
+      <link>https://krinos.github.io/publication/gb/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://krinos.github.io/publication/gb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Backup: Data Efficient Backup Exploiting Markovian Data</title>
+      <link>https://krinos.github.io/publication/gbworkshop/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://krinos.github.io/publication/gbworkshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid-to-Graph: Flexible Spatial Relational Inductive Biases for Reinforcement Learning</title>
+      <link>https://krinos.github.io/publication/gtg/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://krinos.github.io/publication/gtg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Logic Reinforcement Learning</title>
+      <link>https://krinos.github.io/publication/nlrl/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://krinos.github.io/publication/nlrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://krinos.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://krinos.github.io/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://krinos.github.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://krinos.github.io/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem</title>
+      <link>https://krinos.github.io/publication/deepportfolio/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://krinos.github.io/publication/deepportfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://krinos.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://krinos.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
